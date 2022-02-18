@@ -1,25 +1,31 @@
-1. Базовая теория (Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п.) SDLC, STLC
-2. Что такое клиент серверная архитектура.
-3. Методы запросов на сервер.
-4. Ответы сервера.
-5. Структуры запросов и ответов.
-6. Что такое JSON, XML. Их структура.
-7. Тестирование API.
-8. Снятие и чтение логов.
-9. Postman, Fidler.
-10. VPN. (Как работает, зачем нужен, как использовать, варианты инструментов)
-11. Dev Tools веб браузеров (Google Chrome, FireFox).
-12. Мобильное тестирование.
-13. Особенность iOS, Android, гайдлайны.
-14. Сборка iOS приложений на XCode
-15. Сборка Android приложений на Android Studio
-16. Перехват мобильного трафика (сниффинг) через Charles
-17. Настройка прокси на iOS и Android.
-18. Командная строка (terminal) Linux Ubuntu. Копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса. 
-19. Простой bash скриптринг , автоматизация рутинных задач на сервере.
-20. Доступ к удалённым серверам.
-21. Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join
-22. Git
-23. Jmeter
-24. Методология разработки Scrum
-25. Python. Создание собственного клиент-серверного приложения.
+{
+"skills":[
+	"software testing theory",
+	"client-server architecture",
+	"HTTP Server Request Methods",
+	"HTTP server Response codes",
+	"Structures of HTTP requests and responses",
+	"What is JSON, XML. Their structure",
+	"API testing via Postman JS, API autotests",
+	"Removing and reading logs from an external server",
+	"Sniffing http web traffic through Charles and Fiddler",
+	"Dev Tools of web browsers Google Chrome, FireFox",
+	"VPN. How it works, why you need it, how to use it, tool options",
+	"Mobile testing",
+	"Feature of iOS, Android, guidelines",
+	"Build iOS applications on Xcode",
+	"Build Android applications on Android Studio",
+	"ADB management of android devices",
+	"Setting up proxy and vpn on iOS and Android",
+	"Interception (sniffing) of mobile traffic through Charles and Fiddler on iOS and Android",
+	"Command line (terminal) Linux copy, create, view, move files on servers without a graphical interface",
+	"Basics of bash scripting, automation of routine tasks on the server",
+	"Access to remote servers",
+	"Basics of SQL Create, Delete, Drop, Insert Into, Select, From, Where, Join",
+	"Postgres database installation, configuration and use",
+	"Non-relational database Redis installation, configuration and use",
+	"Load testing in Jmeter",
+	"Scrum development methodology",
+	"Python. Learning the basics. Building a client-server application"
+	]
+}
