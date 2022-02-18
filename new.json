@@ -2,16 +2,10 @@
 	"full_name":"Andrey",
 	"age":23,
 	"pets":[
-	    {
-		
-		"kind_of_pet":"cat",
-		"name":"Duhast"
+	    {"kind_of_pet":"cat",
+		"name":"Duhast"},
 		    
-		},
-		
-		{
-		"kind_of_pet":"cat",
-		"name":"Anfisa"
-		}
-		]
+		{"kind_of_pet":"cat",
+		 "name":"Anfisa"}
+		 ]
 }
