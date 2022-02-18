@@ -1,3 +1,8 @@
-Osipov Andrey
-23
-2
+{
+	"name":"Andrey",
+	"age":23,
+	"pets":{
+		"number":1,
+		"kind_of_pet":"cat",
+		"name":"Duhast"
+}
