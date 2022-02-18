@@ -2,7 +2,9 @@
 	"name":"Andrey",
 	"age":23,
 	"pets":{
-		"number":1,
-		"kind_of_pet":"cat",
-		"name":"Duhast"
+		{"kind_of_pet":"cat",
+		 "name":"Duhast"},
+	        {"kind_of_pet":"cat",
+		 "name":"Anfisa"}
+                }
 }
